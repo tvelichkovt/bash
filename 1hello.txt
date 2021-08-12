@@ -1,0 +1,4 @@
+sudo -su
+chmod +x 1hello.sh
+./1hello.sh
+cat 1test.txt
