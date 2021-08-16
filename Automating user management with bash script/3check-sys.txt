@@ -1,2 +1,0 @@
-sudo -su
-chmod +x 3check-sys.sh

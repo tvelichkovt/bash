@@ -1,3 +1,0 @@
-sudo -su
-chmod +x 2update
-./2update
