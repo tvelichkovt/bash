@@ -1,4 +1,4 @@
-BASH Shell Scripting
+BASH Shell Scripting!
 ==========================================================================================
 #!/bin/bash
 # create and open text fr file
